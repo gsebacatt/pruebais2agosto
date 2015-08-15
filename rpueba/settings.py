@@ -26,7 +26,7 @@ TEMPLATE_DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+# comentario
 # Application definition
 
 INSTALLED_APPS = (
