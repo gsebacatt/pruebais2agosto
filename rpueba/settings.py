@@ -1,11 +1,5 @@
 """
-Django settings for rpueba project.
-
-For more information on this file, see
-https://docs.djangoproject.com/en/1.7/topics/settings/
-
-For the full list of settings and their values, see
-https://docs.djangoproject.com/en/1.7/ref/settings/
+ola ke ase veyesa ke dice ke no me cuenta
 """
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
